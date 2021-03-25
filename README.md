@@ -1,12 +1,17 @@
 # flu_ext
 
-Flutter控件的扩展函数
+Flutter控件的扩展函数 [blog](https://www.jianshu.com/p/cf805ba527bb)
 
 ### 使用方式
 ```
  dependencies:
     flu_ext:
         git: https://github.com/gwhcn/flu_ext.git
+```
+or
+```
+ dependencies:
+    flu_ext: 0.0.1
 ```
 
 ### 已有函数
